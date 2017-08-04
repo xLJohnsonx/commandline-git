@@ -2,3 +2,6 @@ cd
 rmdir
 mkdir
 ls
+
+
+lj changes
